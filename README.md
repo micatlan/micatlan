@@ -1,4 +1,4 @@
-[![Social banner for Michael Atlan](https://github.com/micatlan/micatlan/blob/main/miked.jpg)](http://digitalholography.org)
+<h1 align="center">[![Social banner for Michael Atlan](https://github.com/micatlan/micatlan/blob/main/miked.jpg)](http://digitalholography.org)</h1>
 
 <h1 align="center">Hi 👋, I'm Michael Atlan</h1>
 <h3 align="center">I make digital holography hardware and software.</h3>
