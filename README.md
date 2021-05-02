@@ -9,13 +9,14 @@
 
 - 🔭 I’m currently working on [holovibes](www.holovibes.com)
 
-- 📫 How to reach me **https://www.institut-langevin.espci.fr/michael_atlan**
+- 📫 **https://www.institut-langevin.espci.fr/michael_atlan**
+- 📫 **https://www.pariseyeimaging.com/Members/180ab8642a-Michael-Atlan.en.htm**
+- 📫 **https://www.xing.com/profile/Michael_Atlan/cv**
+- 📫 **https://www.researchgate.net/profile/Michael_Atlan2**
+- 📫 **https://scholar.google.fr/citations?hl=en&user=e_K90MoAAAAJ**
+- 📫 **https://www.instagram.com/michael_atlan/**
+- 📫 **https://cv.archives-ouvertes.fr/michael-atlan**
+- 📫 **https://cnrs.academia.edu/MichaelAtlan**
+- 📫 **https://www.linkedin.com/in/micatlan/** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/holovibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="holovibes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/micatlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="micatlan" height="30" width="40" /></a>
-<a href="https://instagram.com/michael_atlan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="michael_atlan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uc_damx84b2y375nanrd_tjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="uc_damx84b2y375nanrd_tjw" height="30" width="40" /></a>
-</p>
 
