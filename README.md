@@ -1,5 +1,3 @@
-[![Header](https://github.com/micatlan/micatlan/blob/main/miked.jpg "Header")](http://holovibes.org)
-
 <h1 align="center">Hi 👋, I'm Michael Atlan</h1>
 
 - 📫 **https://www.institut-langevin.espci.fr/michael_atlan**
